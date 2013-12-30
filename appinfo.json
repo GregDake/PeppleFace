@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "1eddf212-4f53-4eb6-bc3b-39a476504e73",
+    "appKeys": {},
+    "longName": "Greg's Watch Face",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Greg's Watch Face",
+    "companyName": "daker13",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
